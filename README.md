@@ -21,10 +21,10 @@
 The **YouTube Comments Sentiment Analyzer** is designed for content creators, marketers, and researchers who need to gauge audience sentiment and engagement on YouTube videos.
 
 **Features**:
--Real-time sentiment analysis of YouTube comments.
--Visual representation of sentiment data using charts.
--User-friendly interface for easy interaction.
--Supports filtering and searching of comments based on sentiment.
+- Real-time sentiment analysis of YouTube comments.
+- Visual representation of sentiment data using charts.
+- User-friendly interface for easy interaction.
+- Supports filtering and searching of comments based on sentiment.
 
 **Development Status**:  
 The project is currently in active development. A working prototype is deployed for demonstration purposes, but enhancements and optimizations are ongoing.
@@ -42,7 +42,7 @@ To start using the **YouTube Comments Sentiment Analyzer** tool, follow the step
 - Access to the internet.
 - A modern web browser (e.g., Google Chrome, Mozilla Firefox, Safari).
 Optional (for developers):
--Basic knowledge of React, TypeScript, and sentiment analysis libraries.
+- Basic knowledge of React, TypeScript, and sentiment analysis libraries.
 
 ---
 
