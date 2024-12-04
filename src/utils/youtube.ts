@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'AIzaSyC9sGnIQB2WQ20-0Q2hhRNMRm7mjevOqn0'; // Note: User needs to provide their YouTube API key
+const API_KEY = ''; // Note: User needs to provide their YouTube API key
 
 export const extractVideoId = (url: string): string | null => {
   const regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
