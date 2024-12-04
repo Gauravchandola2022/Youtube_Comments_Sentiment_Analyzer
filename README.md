@@ -38,9 +38,9 @@ At this stage, external contributions are not being accepted. However, we welcom
 To start using the **YouTube Comments Sentiment Analyzer** tool, follow the steps below:
 
 ### Prerequisites
--To use this project, ensure that you have:
--Access to the internet.
--A modern web browser (e.g., Google Chrome, Mozilla Firefox, Safari).
+- To use this project, ensure that you have:
+- Access to the internet.
+- A modern web browser (e.g., Google Chrome, Mozilla Firefox, Safari).
 Optional (for developers):
 -Basic knowledge of React, TypeScript, and sentiment analysis libraries.
 
